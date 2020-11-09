@@ -6,7 +6,7 @@ const createTd = (newRow,inputValue) =>{
  
  }
 //  Delete Function
-// haveto figure out how to do it****
+// haveto figure out how to create an effective delete callball function****
 
 const deleteRow = (amountCell, newRow) =>{
   //Create Delete button
